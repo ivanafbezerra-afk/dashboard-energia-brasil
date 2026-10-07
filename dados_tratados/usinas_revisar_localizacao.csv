@@ -1,0 +1,48 @@
+﻿CEG;Usina;Fonte;UF;UF_Espacial;Latitude;Longitude;Status_Localizacao
+EOL.CV.CE.028375-4.1;Mucuripe;Eólica;CE;;-3,7053;-38,4711;Sem correspondência na malha
+EOL.CV.RN.033752-8.1;Vila Acre I;Eólica;RN;BA;-11,134978;-42,653473;UF divergente
+UFV.RS.SP.034107-0.2;Brisas Suaves;Solar;SP;MG;-15,54018984;-43,6283;UF divergente
+UFV.RS.SP.034161-4.2;Boa Hora 1;Solar;SP;MG;-19,873;-50,89047036;UF divergente
+EOL.CV.BA.034777-9.1;Pedra do Reino IV;Eólica;BA;RN;-5,066152;-36,012362;UF divergente
+UFV.RS.MS.049404-6.3;Fótons de São George 01 (Antiga Panorama 04);Solar;MS;CE;-3,81563333;-41,13686667;UF divergente
+UFV.RS.MS.049405-4.3;Fótons de São George 02 (Antiga Panorama 05);Solar;MS;CE;-3,81926666;-41,14543055;UF divergente
+UFV.RS.MS.049406-2.3;Fótons de São George 03 (Antiga Panorama 06);Solar;MS;CE;-3,81987221;-41,13401111;UF divergente
+UFV.RS.MS.049407-0.3;Fótons de São George 04 (Antiga Panorama 07);Solar;MS;CE;-3,825325;-41,13401111;UF divergente
+UFV.RS.MS.049408-9.3;Fótons de São George 05 (Antiga Panorama 08);Solar;MS;CE;-3,82895833;-41,14828611;UF divergente
+EOL.CV.RN.049664-2.1;Ventos de São Rafael 01;Eólica;RN;PB;-6,34082641;-36,32314202;UF divergente
+EOL.CV.RN.049665-0.1;Ventos de São Rafael 02;Eólica;RN;PB;-6,29484883;-36,32671096;UF divergente
+EOL.CV.RN.049666-9.1;Ventos de São Rafael 03;Eólica;RN;PB;-6,28394731;-36,31018581;UF divergente
+EOL.CV.PB.050017-8.1;Ventos de São Rafael 11;Eólica;PB;RN;-6,03732806;-36,13237762;UF divergente
+EOL.CV.RN.051587-6.2;Ventos de Santa Luzia 13;Eólica;RN;BA;-12,75772222;-42,02622222;UF divergente
+UFV.RS.PA.058259-0.1;Lino de Freitas Silva Junior;Solar;PA;AP;2,485933;-50,858787;UF divergente
+UFV.RS.PA.058624-2.1;Jose Soares Viana;Solar;PA;AP;1,830991;-51,194458;UF divergente
+UFV.RS.PA.058811-3.1;Alexandra Carvalho do Nascimento;Solar;PA;AP;1,826584;-51,178804;UF divergente
+UFV.RS.PA.058814-8.1;Carmem Lucia Barbosa da Silva de Oliveir;Solar;PA;AP;1,836453;-51,157839;UF divergente
+UFV.RS.PA.058827-0.1;Manoel da Vera Cruz Batista Barbosa;Solar;PA;AP;1,788596;-51,311571;UF divergente
+UFV.RS.PA.058834-2.1;Manoel Raimundo da Costa Jardim;Solar;PA;AP;1,849715;-51,174041;UF divergente
+UFV.RS.PA.058835-0.1;Marcos Venilson da Silva Calixto;Solar;PA;AP;1,84409;-51,169702;UF divergente
+UFV.RS.PA.058840-7.1;Maria de Nazare Pastana da Silva;Solar;PA;AP;1,847617;-51,175374;UF divergente
+UFV.RS.PA.058842-3.1;Nelson Coelho de Novaes;Solar;PA;AP;1,849185;-51,172057;UF divergente
+UFV.RS.PA.058845-8.1;Raimundo Valente de Oliveira;Solar;PA;AP;1,836326;-51,157968;UF divergente
+UFV.RS.PA.058846-6.1;Rayla Valente de Oliveira;Solar;PA;AP;1,836525;-51,157737;UF divergente
+UFV.RS.PA.058847-4.1;Roseli Brabo Machado;Solar;PA;AP;1,835454;-51,159725;UF divergente
+UFV.RS.PA.058884-9.1;Cleidivan Lobato da Costa;Solar;PA;AP;1,765569;-51,280378;UF divergente
+UFV.RS.PA.058885-7.1;Genilson Costa Souza;Solar;PA;AP;1,773189;-51,289639;UF divergente
+UFV.RS.PA.058888-1.1;Joao Alai de Souza Mendes;Solar;PA;AP;1,773035;-51,28945;UF divergente
+UFV.RS.PA.058937-3.1;Paulo Robsom da Silva Machado;Solar;PA;AP;1,847819;-51,176457;UF divergente
+UFV.RS.PA.059464-4.1;Osvaldo Barbosa de Carvalho;Solar;PA;AP;2,299902;-50,896311;UF divergente
+UFV.RS.PA.059468-7.1;Rosana Vilarinho da Cruz;Solar;PA;AP;2,417618;-50,875641;UF divergente
+UFV.RS.PA.059550-0.1;Fabiana Alves Pureza;Solar;PA;AP;2,417392;-50,882251;UF divergente
+UFV.RS.PA.059555-1.1;Francisca Pimentel Ribeiro;Solar;PA;AP;2,410141;-50,817301;UF divergente
+UFV.RS.PA.059571-3.1;Maria de Nazare Alves Braga;Solar;PA;AP;2,407328;-50,804068;UF divergente
+UFV.RS.PA.059583-7.1;Anezio Goncalves Barbosa;Solar;PA;AP;2,287831;-50,853637;UF divergente
+UFV.RS.PA.059586-1.1;Daicilene Primavera Barbosa;Solar;PA;AP;2,290707;-50,838769;UF divergente
+UFV.RS.PA.059598-5.1;Lelton Barbosa Aquino;Solar;PA;AP;2,285444;-50,847144;UF divergente
+UFV.RS.PA.059603-5.1;Valdirene Pinheiro Barboza;Solar;PA;AP;2,286125;-50,848891;UF divergente
+UFV.RS.AM.062083-1.1;Portal Vidros;Solar;AM;RR;3,05091219;-59,9836875;UF divergente
+UFV.RS.DF.062920-0.1;Energia Solar 3 Irmaos;Solar;DF;GO;-15,13474361;-47,11739389;UF divergente
+UFV.RS.MS.066959-8.1;Sog000319_2186492;Solar;MS;MT;-17,88066;-57,447722;UF divergente
+UFV.RS.PA.071256-6.1;Maria Gomes Nunes;Solar;PA;AP;2,238126;-50,968502;UF divergente
+UFV.RS.MS.071802-5.1;352201307;Solar;MS;PA;-2,05480667;-50,84988611;UF divergente
+UFV.RS.MS.071804-1.1;352201309;Solar;MS;PA;-1,81084861;-50,93187806;UF divergente
+UFV.RS.SC.073855-7.1;Autoprodutor Sem Venda - Vinagre;Solar;SC;SP;-22,06333333;-48,89833333;UF divergente
